@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "giLXd/nOkjcuYCPEekfoprvh6T6bLXleV2rqhuK443axiI/OIHaxZfbUQJLEkB7IPJUkm6LVDa+IkxxYkuXg4g==",
+  "success": true,
+  "projectFilePath": "D:\\project\\Analitic3\\Analitic3\\Analitic3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dvory\\.nuget\\packages\\ironocr\\2020.11.2\\ironocr.2020.11.2.nupkg.sha512",
+    "C:\\Users\\dvory\\.nuget\\packages\\ironocr.languages.hebrew\\2020.11.2\\ironocr.languages.hebrew.2020.11.2.nupkg.sha512",
+    "C:\\Users\\dvory\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\dvory\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\dvory\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
