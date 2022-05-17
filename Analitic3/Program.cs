@@ -48,7 +48,6 @@ namespace Analitic3
             }
             t2.creatTri();
 
-
         }
     }
 }
